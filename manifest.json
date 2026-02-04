@@ -1,0 +1,26 @@
+
+{
+  "name": "Control de Horas 2026",
+  "short_name": "Horas 2026",
+  "description": "Gestión profesional de horas laborales y liquidación 2026",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#020617",
+  "theme_color": "#020617",
+  "orientation": "portrait",
+  "categories": ["productivity", "finance"],
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2382/2382625.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2382/2382625.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
